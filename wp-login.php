@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Acessar &lsaquo; Ateliê Veg &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://cbiffe.github.io/atelieveg/wp-includes/css/dashicons.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://cbiffe.github.io/atelieveg/wp-includes/css/buttons.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://cbiffe.github.io/atelieveg/wp-admin/css/forms.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://cbiffe.github.io/atelieveg/wp-admin/css/l10n.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://cbiffe.github.io/atelieveg/wp-admin/css/login.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/cbiffe.github.io/atelieveg/wp-includes/css/dashicons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/cbiffe.github.io/atelieveg/wp-includes/css/buttons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/cbiffe.github.io/atelieveg/wp-admin/css/forms.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/cbiffe.github.io/atelieveg/wp-admin/css/l10n.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/cbiffe.github.io/atelieveg/wp-admin/css/login.min.css?ver=5.2.3' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://br.wordpress.org/">Powered by WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://cbiffe.github.io/atelieveg/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/cbiffe.github.io/atelieveg/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Nome de usuário ou endereço de e-mail<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://cbiffe.github.io/atelieveg/wp-login.php?action=lostpassword">Perdeu a senha?</a>
+					<a href="http://localhost/https:/cbiffe.github.io/atelieveg/wp-login.php?action=lostpassword">Perdeu a senha?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://cbiffe.github.io/atelieveg/">
+			<p id="backtoblog"><a href="http://localhost/https:/cbiffe.github.io/atelieveg/">
 		&larr; Voltar para Ateliê Veg	</a></p>
 			
 	</div>
