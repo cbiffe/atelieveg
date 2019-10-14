@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ateliê Veg</title>
+	<atom:link href="/https://cbiffe.github.io/atelieveg/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://cbiffe.github.io/atelieveg</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Mon, 14 Oct 2019 21:00:00 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>/https://cbiffe.github.io/atelieveg/2019/10/14/ola-mundo/</link>
+				<comments>/https://cbiffe.github.io/atelieveg/2019/10/14/ola-mundo/#comments</comments>
+				<pubDate>Mon, 14 Oct 2019 21:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[atelieveg]]></dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
+
+		<guid isPermaLink="false">/https://cbiffe.github.io/atelieveg/?p=1</guid>
+				<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+								<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+							<wfw:commentRss>/https://cbiffe.github.io/atelieveg/2019/10/14/ola-mundo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
